@@ -8,7 +8,6 @@ Frontend Developer • React • JavaScript • Turning ideas into interfaces.<b
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=SatyamR986&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=SatyamR986&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SatyamR986&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
